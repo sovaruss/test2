@@ -5,3 +5,5 @@ git fetch - know change
 git pull - add change
 git status - проверка файлов
 git push origin HEAD - добавление изменений
+git branch - просмотр веток
+
