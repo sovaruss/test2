@@ -1,5 +1,5 @@
 # Readme 
 # Сloning a repository
-git clone https://github.com/Account/Repo.git
-git fetch
-git pull
+git clone <adress repository on github.com>
+git fetch - know change
+git pull - add change
